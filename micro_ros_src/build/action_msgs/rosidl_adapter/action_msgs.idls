@@ -1,0 +1,4 @@
+/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/action_msgs/rosidl_adapter/action_msgs:msg/GoalInfo.idl
+/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/action_msgs/rosidl_adapter/action_msgs:msg/GoalStatus.idl
+/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/action_msgs/rosidl_adapter/action_msgs:msg/GoalStatusArray.idl
+/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/action_msgs/rosidl_adapter/action_msgs:srv/CancelGoal.idl

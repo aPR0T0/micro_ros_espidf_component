@@ -1,0 +1,9 @@
+/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/nav_msgs/rosidl_adapter/nav_msgs:msg/GridCells.idl
+/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/nav_msgs/rosidl_adapter/nav_msgs:msg/MapMetaData.idl
+/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/nav_msgs/rosidl_adapter/nav_msgs:msg/OccupancyGrid.idl
+/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/nav_msgs/rosidl_adapter/nav_msgs:msg/Odometry.idl
+/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/nav_msgs/rosidl_adapter/nav_msgs:msg/Path.idl
+/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/nav_msgs/rosidl_adapter/nav_msgs:srv/GetMap.idl
+/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/nav_msgs/rosidl_adapter/nav_msgs:srv/GetPlan.idl
+/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/nav_msgs/rosidl_adapter/nav_msgs:srv/LoadMap.idl
+/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/nav_msgs/rosidl_adapter/nav_msgs:srv/SetMap.idl

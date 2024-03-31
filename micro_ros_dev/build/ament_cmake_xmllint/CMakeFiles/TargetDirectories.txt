@@ -1,0 +1,8 @@
+/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_dev/build/ament_cmake_xmllint/CMakeFiles/uninstall.dir
+/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_dev/build/ament_cmake_xmllint/CMakeFiles/ament_cmake_xmllint_uninstall.dir
+/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_dev/build/ament_cmake_xmllint/CMakeFiles/test.dir
+/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_dev/build/ament_cmake_xmllint/CMakeFiles/edit_cache.dir
+/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_dev/build/ament_cmake_xmllint/CMakeFiles/rebuild_cache.dir
+/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_dev/build/ament_cmake_xmllint/CMakeFiles/list_install_components.dir
+/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_dev/build/ament_cmake_xmllint/CMakeFiles/install.dir
+/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_dev/build/ament_cmake_xmllint/CMakeFiles/install/local.dir

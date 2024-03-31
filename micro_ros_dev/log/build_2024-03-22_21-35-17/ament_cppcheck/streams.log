@@ -1,0 +1,50 @@
+[0.743s] Invoking command in '/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_dev/src/ament_lint/ament_cppcheck': PYTHONPATH=/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_dev/build/ament_cppcheck/prefix_override:/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_dev/install/ament_cppcheck/lib/python3.10/site-packages: X_CFLAGS=-mlongcalls -Wno-frame-address X_CXXFLAGS=-mlongcalls -Wno-frame-address /home/proto/.espressif/python_env/idf5.2_py3.10_env/bin/python3 setup.py egg_info --egg-base ../../../build/ament_cppcheck build --build-base /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_dev/build/ament_cppcheck/build install --record /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_dev/build/ament_cppcheck/install.log --single-version-externally-managed
+[0.840s] running egg_info
+[0.840s] creating ../../../build/ament_cppcheck/ament_cppcheck.egg-info
+[0.842s] writing ../../../build/ament_cppcheck/ament_cppcheck.egg-info/PKG-INFO
+[0.843s] writing dependency_links to ../../../build/ament_cppcheck/ament_cppcheck.egg-info/dependency_links.txt
+[0.843s] writing entry points to ../../../build/ament_cppcheck/ament_cppcheck.egg-info/entry_points.txt
+[0.843s] writing requirements to ../../../build/ament_cppcheck/ament_cppcheck.egg-info/requires.txt
+[0.843s] writing top-level names to ../../../build/ament_cppcheck/ament_cppcheck.egg-info/top_level.txt
+[0.843s] writing manifest file '../../../build/ament_cppcheck/ament_cppcheck.egg-info/SOURCES.txt'
+[0.850s] reading manifest file '../../../build/ament_cppcheck/ament_cppcheck.egg-info/SOURCES.txt'
+[0.851s] writing manifest file '../../../build/ament_cppcheck/ament_cppcheck.egg-info/SOURCES.txt'
+[0.851s] running build
+[0.851s] running build_py
+[0.851s] creating /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_dev/build/ament_cppcheck/build
+[0.851s] creating /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_dev/build/ament_cppcheck/build/lib
+[0.851s] creating /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_dev/build/ament_cppcheck/build/lib/ament_cppcheck
+[0.851s] copying ament_cppcheck/main.py -> /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_dev/build/ament_cppcheck/build/lib/ament_cppcheck
+[0.852s] copying ament_cppcheck/__init__.py -> /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_dev/build/ament_cppcheck/build/lib/ament_cppcheck
+[0.852s] running install
+[0.852s] /home/proto/.espressif/python_env/idf5.2_py3.10_env/lib/python3.10/site-packages/setuptools/_distutils/cmd.py:66: SetuptoolsDeprecationWarning: setup.py install is deprecated.
+[0.852s] !!
+[0.852s] 
+[0.852s]         ********************************************************************************
+[0.852s]         Please avoid running ``setup.py`` directly.
+[0.852s]         Instead, use pypa/build, pypa/installer or other
+[0.852s]         standards-based tools.
+[0.852s] 
+[0.852s]         See https://blog.ganssle.io/articles/2021/10/setup-py-deprecated.html for details.
+[0.853s]         ********************************************************************************
+[0.853s] 
+[0.853s] !!
+[0.853s]   self.initialize_options()
+[0.857s] running install_lib
+[0.861s] creating /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_dev/install/ament_cppcheck/lib/python3.10/site-packages/ament_cppcheck
+[0.861s] copying /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_dev/build/ament_cppcheck/build/lib/ament_cppcheck/main.py -> /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_dev/install/ament_cppcheck/lib/python3.10/site-packages/ament_cppcheck
+[0.861s] copying /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_dev/build/ament_cppcheck/build/lib/ament_cppcheck/__init__.py -> /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_dev/install/ament_cppcheck/lib/python3.10/site-packages/ament_cppcheck
+[0.862s] byte-compiling /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_dev/install/ament_cppcheck/lib/python3.10/site-packages/ament_cppcheck/main.py to main.cpython-310.pyc
+[0.863s] byte-compiling /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_dev/install/ament_cppcheck/lib/python3.10/site-packages/ament_cppcheck/__init__.py to __init__.cpython-310.pyc
+[0.863s] running install_data
+[0.866s] copying package.xml -> /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_dev/install/ament_cppcheck/share/ament_cppcheck
+[0.867s] creating /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_dev/install/ament_cppcheck/share/ament_index
+[0.867s] creating /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_dev/install/ament_cppcheck/share/ament_index/resource_index
+[0.867s] creating /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_dev/install/ament_cppcheck/share/ament_index/resource_index/packages
+[0.867s] copying resource/ament_cppcheck -> /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_dev/install/ament_cppcheck/share/ament_index/resource_index/packages
+[0.867s] running install_egg_info
+[0.872s] Copying ../../../build/ament_cppcheck/ament_cppcheck.egg-info to /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_dev/install/ament_cppcheck/lib/python3.10/site-packages/ament_cppcheck-0.12.10-py3.10.egg-info
+[0.872s] running install_scripts
+[0.912s] Installing ament_cppcheck script to /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_dev/install/ament_cppcheck/bin
+[0.912s] writing list of installed files to '/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_dev/build/ament_cppcheck/install.log'
+[0.964s] Invoked command in '/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_dev/src/ament_lint/ament_cppcheck' returned '0': PYTHONPATH=/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_dev/build/ament_cppcheck/prefix_override:/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_dev/install/ament_cppcheck/lib/python3.10/site-packages: X_CFLAGS=-mlongcalls -Wno-frame-address X_CXXFLAGS=-mlongcalls -Wno-frame-address /home/proto/.espressif/python_env/idf5.2_py3.10_env/bin/python3 setup.py egg_info --egg-base ../../../build/ament_cppcheck build --build-base /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_dev/build/ament_cppcheck/build install --record /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_dev/build/ament_cppcheck/install.log --single-version-externally-managed

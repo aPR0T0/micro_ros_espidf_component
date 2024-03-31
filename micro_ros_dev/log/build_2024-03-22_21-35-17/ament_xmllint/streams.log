@@ -1,0 +1,53 @@
+[1.017s] Invoking command in '/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_dev/src/ament_lint/ament_xmllint': AMENT_PREFIX_PATH=/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_dev/install/ament_copyright:/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_dev/install/ament_pep257:/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_dev/install/ament_flake8:/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_dev/install/ament_lint PATH=/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_dev/install/ament_copyright/bin:/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_dev/install/ament_pep257/bin:/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_dev/install/ament_flake8/bin:${PATH} PYTHONPATH=/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_dev/build/ament_xmllint/prefix_override:/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_dev/install/ament_xmllint/lib/python3.10/site-packages:/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_dev/install/ament_copyright/lib/python3.10/site-packages:/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_dev/install/ament_pep257/lib/python3.10/site-packages:/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_dev/install/ament_flake8/lib/python3.10/site-packages:/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_dev/install/ament_lint/lib/python3.10/site-packages X_CFLAGS=-mlongcalls -Wno-frame-address X_CXXFLAGS=-mlongcalls -Wno-frame-address /home/proto/.espressif/python_env/idf5.2_py3.10_env/bin/python3 setup.py egg_info --egg-base ../../../build/ament_xmllint build --build-base /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_dev/build/ament_xmllint/build install --record /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_dev/build/ament_xmllint/install.log --single-version-externally-managed
+[1.187s] running egg_info
+[1.188s] creating ../../../build/ament_xmllint/ament_xmllint.egg-info
+[1.196s] writing ../../../build/ament_xmllint/ament_xmllint.egg-info/PKG-INFO
+[1.197s] writing dependency_links to ../../../build/ament_xmllint/ament_xmllint.egg-info/dependency_links.txt
+[1.197s] writing entry points to ../../../build/ament_xmllint/ament_xmllint.egg-info/entry_points.txt
+[1.197s] writing requirements to ../../../build/ament_xmllint/ament_xmllint.egg-info/requires.txt
+[1.197s] writing top-level names to ../../../build/ament_xmllint/ament_xmllint.egg-info/top_level.txt
+[1.197s] writing manifest file '../../../build/ament_xmllint/ament_xmllint.egg-info/SOURCES.txt'
+[1.210s] reading manifest file '../../../build/ament_xmllint/ament_xmllint.egg-info/SOURCES.txt'
+[1.217s] writing manifest file '../../../build/ament_xmllint/ament_xmllint.egg-info/SOURCES.txt'
+[1.217s] running build
+[1.217s] running build_py
+[1.217s] creating /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_dev/build/ament_xmllint/build
+[1.218s] creating /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_dev/build/ament_xmllint/build/lib
+[1.218s] creating /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_dev/build/ament_xmllint/build/lib/ament_xmllint
+[1.218s] copying ament_xmllint/main.py -> /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_dev/build/ament_xmllint/build/lib/ament_xmllint
+[1.218s] copying ament_xmllint/__init__.py -> /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_dev/build/ament_xmllint/build/lib/ament_xmllint
+[1.218s] copying ament_xmllint/pytest_marker.py -> /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_dev/build/ament_xmllint/build/lib/ament_xmllint
+[1.218s] running install
+[1.218s] /home/proto/.espressif/python_env/idf5.2_py3.10_env/lib/python3.10/site-packages/setuptools/_distutils/cmd.py:66: SetuptoolsDeprecationWarning: setup.py install is deprecated.
+[1.218s] !!
+[1.218s] 
+[1.218s]         ********************************************************************************
+[1.218s]         Please avoid running ``setup.py`` directly.
+[1.218s]         Instead, use pypa/build, pypa/installer or other
+[1.218s]         standards-based tools.
+[1.218s] 
+[1.218s]         See https://blog.ganssle.io/articles/2021/10/setup-py-deprecated.html for details.
+[1.218s]         ********************************************************************************
+[1.218s] 
+[1.219s] !!
+[1.219s]   self.initialize_options()
+[1.228s] running install_lib
+[1.234s] creating /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_dev/install/ament_xmllint/lib/python3.10/site-packages/ament_xmllint
+[1.234s] copying /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_dev/build/ament_xmllint/build/lib/ament_xmllint/main.py -> /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_dev/install/ament_xmllint/lib/python3.10/site-packages/ament_xmllint
+[1.234s] copying /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_dev/build/ament_xmllint/build/lib/ament_xmllint/__init__.py -> /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_dev/install/ament_xmllint/lib/python3.10/site-packages/ament_xmllint
+[1.234s] copying /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_dev/build/ament_xmllint/build/lib/ament_xmllint/pytest_marker.py -> /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_dev/install/ament_xmllint/lib/python3.10/site-packages/ament_xmllint
+[1.234s] byte-compiling /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_dev/install/ament_xmllint/lib/python3.10/site-packages/ament_xmllint/main.py to main.cpython-310.pyc
+[1.234s] byte-compiling /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_dev/install/ament_xmllint/lib/python3.10/site-packages/ament_xmllint/__init__.py to __init__.cpython-310.pyc
+[1.234s] byte-compiling /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_dev/install/ament_xmllint/lib/python3.10/site-packages/ament_xmllint/pytest_marker.py to pytest_marker.cpython-310.pyc
+[1.234s] running install_data
+[1.246s] copying package.xml -> /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_dev/install/ament_xmllint/share/ament_xmllint
+[1.246s] creating /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_dev/install/ament_xmllint/share/ament_index
+[1.246s] creating /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_dev/install/ament_xmllint/share/ament_index/resource_index
+[1.246s] creating /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_dev/install/ament_xmllint/share/ament_index/resource_index/packages
+[1.246s] copying resource/ament_xmllint -> /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_dev/install/ament_xmllint/share/ament_index/resource_index/packages
+[1.246s] running install_egg_info
+[1.247s] Copying ../../../build/ament_xmllint/ament_xmllint.egg-info to /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_dev/install/ament_xmllint/lib/python3.10/site-packages/ament_xmllint-0.12.10-py3.10.egg-info
+[1.247s] running install_scripts
+[1.318s] Installing ament_xmllint script to /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_dev/install/ament_xmllint/bin
+[1.319s] writing list of installed files to '/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_dev/build/ament_xmllint/install.log'
+[1.377s] Invoked command in '/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_dev/src/ament_lint/ament_xmllint' returned '0': AMENT_PREFIX_PATH=/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_dev/install/ament_copyright:/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_dev/install/ament_pep257:/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_dev/install/ament_flake8:/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_dev/install/ament_lint PATH=/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_dev/install/ament_copyright/bin:/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_dev/install/ament_pep257/bin:/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_dev/install/ament_flake8/bin:${PATH} PYTHONPATH=/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_dev/build/ament_xmllint/prefix_override:/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_dev/install/ament_xmllint/lib/python3.10/site-packages:/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_dev/install/ament_copyright/lib/python3.10/site-packages:/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_dev/install/ament_pep257/lib/python3.10/site-packages:/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_dev/install/ament_flake8/lib/python3.10/site-packages:/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_dev/install/ament_lint/lib/python3.10/site-packages X_CFLAGS=-mlongcalls -Wno-frame-address X_CXXFLAGS=-mlongcalls -Wno-frame-address /home/proto/.espressif/python_env/idf5.2_py3.10_env/bin/python3 setup.py egg_info --egg-base ../../../build/ament_xmllint build --build-base /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_dev/build/ament_xmllint/build install --record /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_dev/build/ament_xmllint/install.log --single-version-externally-managed

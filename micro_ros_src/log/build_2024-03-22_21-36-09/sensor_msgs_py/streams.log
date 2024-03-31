@@ -1,0 +1,49 @@
+[0.505s] Invoking command in '/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/src/common_interfaces/sensor_msgs_py': AMENT_PREFIX_PATH=/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/lib:${LD_LIBRARY_PATH} PATH=/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/bin:${PATH} PYTHONPATH=/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/sensor_msgs_py/prefix_override:/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/lib/python3.10/site-packages:/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/lib/python3.10/site-packages:${PYTHONPATH} X_CFLAGS=-mlongcalls -Wno-frame-address X_CXXFLAGS=-mlongcalls -Wno-frame-address /home/proto/.espressif/python_env/idf5.2_py3.10_env/bin/python3 setup.py egg_info --egg-base ../../../build/sensor_msgs_py build --build-base /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/sensor_msgs_py/build install --record /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/sensor_msgs_py/install.log --single-version-externally-managed
+[0.622s] running egg_info
+[0.622s] creating ../../../build/sensor_msgs_py/sensor_msgs_py.egg-info
+[0.627s] writing ../../../build/sensor_msgs_py/sensor_msgs_py.egg-info/PKG-INFO
+[0.627s] writing dependency_links to ../../../build/sensor_msgs_py/sensor_msgs_py.egg-info/dependency_links.txt
+[0.627s] writing requirements to ../../../build/sensor_msgs_py/sensor_msgs_py.egg-info/requires.txt
+[0.627s] writing top-level names to ../../../build/sensor_msgs_py/sensor_msgs_py.egg-info/top_level.txt
+[0.627s] writing manifest file '../../../build/sensor_msgs_py/sensor_msgs_py.egg-info/SOURCES.txt'
+[0.637s] reading manifest file '../../../build/sensor_msgs_py/sensor_msgs_py.egg-info/SOURCES.txt'
+[0.637s] adding license file 'LICENSE'
+[0.638s] writing manifest file '../../../build/sensor_msgs_py/sensor_msgs_py.egg-info/SOURCES.txt'
+[0.638s] running build
+[0.638s] running build_py
+[0.638s] creating /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/sensor_msgs_py/build
+[0.638s] creating /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/sensor_msgs_py/build/lib
+[0.638s] creating /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/sensor_msgs_py/build/lib/sensor_msgs_py
+[0.638s] copying sensor_msgs_py/point_cloud2.py -> /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/sensor_msgs_py/build/lib/sensor_msgs_py
+[0.639s] copying sensor_msgs_py/__init__.py -> /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/sensor_msgs_py/build/lib/sensor_msgs_py
+[0.639s] copying sensor_msgs_py/numpy_compat.py -> /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/sensor_msgs_py/build/lib/sensor_msgs_py
+[0.639s] running install
+[0.639s] /home/proto/.espressif/python_env/idf5.2_py3.10_env/lib/python3.10/site-packages/setuptools/_distutils/cmd.py:66: SetuptoolsDeprecationWarning: setup.py install is deprecated.
+[0.639s] !!
+[0.639s] 
+[0.639s]         ********************************************************************************
+[0.639s]         Please avoid running ``setup.py`` directly.
+[0.639s]         Instead, use pypa/build, pypa/installer or other
+[0.639s]         standards-based tools.
+[0.639s] 
+[0.639s]         See https://blog.ganssle.io/articles/2021/10/setup-py-deprecated.html for details.
+[0.640s]         ********************************************************************************
+[0.640s] 
+[0.640s] !!
+[0.640s]   self.initialize_options()
+[0.644s] running install_lib
+[0.648s] creating /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/lib/python3.10/site-packages/sensor_msgs_py
+[0.648s] copying /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/sensor_msgs_py/build/lib/sensor_msgs_py/point_cloud2.py -> /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/lib/python3.10/site-packages/sensor_msgs_py
+[0.648s] copying /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/sensor_msgs_py/build/lib/sensor_msgs_py/__init__.py -> /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/lib/python3.10/site-packages/sensor_msgs_py
+[0.648s] copying /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/sensor_msgs_py/build/lib/sensor_msgs_py/numpy_compat.py -> /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/lib/python3.10/site-packages/sensor_msgs_py
+[0.649s] byte-compiling /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/lib/python3.10/site-packages/sensor_msgs_py/point_cloud2.py to point_cloud2.cpython-310.pyc
+[0.650s] byte-compiling /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/lib/python3.10/site-packages/sensor_msgs_py/__init__.py to __init__.cpython-310.pyc
+[0.650s] byte-compiling /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/lib/python3.10/site-packages/sensor_msgs_py/numpy_compat.py to numpy_compat.cpython-310.pyc
+[0.651s] running install_data
+[0.656s] copying resource/sensor_msgs_py -> /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/share/ament_index/resource_index/packages
+[0.656s] copying package.xml -> /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/share/sensor_msgs_py
+[0.656s] running install_egg_info
+[0.662s] Copying ../../../build/sensor_msgs_py/sensor_msgs_py.egg-info to /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/lib/python3.10/site-packages/sensor_msgs_py-4.2.3-py3.10.egg-info
+[0.662s] running install_scripts
+[0.714s] writing list of installed files to '/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/sensor_msgs_py/install.log'
+[0.736s] Invoked command in '/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/src/common_interfaces/sensor_msgs_py' returned '0': AMENT_PREFIX_PATH=/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/lib:${LD_LIBRARY_PATH} PATH=/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/bin:${PATH} PYTHONPATH=/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/sensor_msgs_py/prefix_override:/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/lib/python3.10/site-packages:/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/lib/python3.10/site-packages:${PYTHONPATH} X_CFLAGS=-mlongcalls -Wno-frame-address X_CXXFLAGS=-mlongcalls -Wno-frame-address /home/proto/.espressif/python_env/idf5.2_py3.10_env/bin/python3 setup.py egg_info --egg-base ../../../build/sensor_msgs_py build --build-base /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/sensor_msgs_py/build install --record /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/sensor_msgs_py/install.log --single-version-externally-managed

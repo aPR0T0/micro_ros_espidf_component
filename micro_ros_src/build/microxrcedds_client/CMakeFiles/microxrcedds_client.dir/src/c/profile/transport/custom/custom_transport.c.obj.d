@@ -1,0 +1,20 @@
+CMakeFiles/microxrcedds_client.dir/src/c/profile/transport/custom/custom_transport.c.obj: \
+ /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/src/Micro-XRCE-DDS-Client/src/c/profile/transport/custom/custom_transport.c \
+ /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/src/Micro-XRCE-DDS-Client/include/uxr/client/profile/transport/custom/custom_transport.h \
+ /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/src/Micro-XRCE-DDS-Client/include/uxr/client/core/communication/communication.h \
+ /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/microxrcedds_client/include/uxr/client/config.h \
+ /home/proto/.espressif/tools/xtensa-esp-elf/esp-13.2.0_20230928/xtensa-esp-elf/lib/gcc/xtensa-esp-elf/13.2.0/include/stdint.h \
+ /home/proto/.espressif/tools/xtensa-esp-elf/esp-13.2.0_20230928/xtensa-esp-elf/xtensa-esp-elf/sys-include/stdint.h \
+ /home/proto/.espressif/tools/xtensa-esp-elf/esp-13.2.0_20230928/xtensa-esp-elf/xtensa-esp-elf/sys-include/machine/_default_types.h \
+ /home/proto/.espressif/tools/xtensa-esp-elf/esp-13.2.0_20230928/xtensa-esp-elf/xtensa-esp-elf/sys-include/sys/features.h \
+ /home/proto/.espressif/tools/xtensa-esp-elf/esp-13.2.0_20230928/xtensa-esp-elf/xtensa-esp-elf/sys-include/_newlib_version.h \
+ /home/proto/.espressif/tools/xtensa-esp-elf/esp-13.2.0_20230928/xtensa-esp-elf/xtensa-esp-elf/sys-include/sys/_intsup.h \
+ /home/proto/.espressif/tools/xtensa-esp-elf/esp-13.2.0_20230928/xtensa-esp-elf/xtensa-esp-elf/sys-include/sys/_stdint.h \
+ /home/proto/.espressif/tools/xtensa-esp-elf/esp-13.2.0_20230928/xtensa-esp-elf/lib/gcc/xtensa-esp-elf/13.2.0/include/stddef.h \
+ /home/proto/.espressif/tools/xtensa-esp-elf/esp-13.2.0_20230928/xtensa-esp-elf/lib/gcc/xtensa-esp-elf/13.2.0/include/stdbool.h \
+ /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/src/Micro-XRCE-DDS-Client/include/uxr/client/profile/transport/stream_framing/stream_framing_protocol.h \
+ /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/src/Micro-XRCE-DDS-Client/include/uxr/client/visibility.h \
+ /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/src/Micro-XRCE-DDS-Client/include/uxr/client/profile/multithread/multithread.h \
+ /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/src/Micro-XRCE-DDS-Client/include/uxr/client/core/session/stream/stream_id.h \
+ /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/src/Micro-XRCE-DDS-Client/include/uxr/client/util/time.h \
+ /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/src/Micro-XRCE-DDS-Client/src/c/profile/transport/custom/../stream_framing/stream_framing_protocol.h

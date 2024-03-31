@@ -1,0 +1,90 @@
+[0.851s] Invoking command in '/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/src/rosidl/rosidl_cli': PYTHONPATH=/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/rosidl_cli/prefix_override:/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/lib/python3.10/site-packages:${PYTHONPATH} X_CFLAGS=-mlongcalls -Wno-frame-address X_CXXFLAGS=-mlongcalls -Wno-frame-address /home/proto/.espressif/python_env/idf5.2_py3.10_env/bin/python3 setup.py egg_info --egg-base ../../../build/rosidl_cli build --build-base /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/rosidl_cli/build install --record /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/rosidl_cli/install.log --single-version-externally-managed
+[1.073s] running egg_info
+[1.073s] creating ../../../build/rosidl_cli/rosidl_cli.egg-info
+[1.073s] writing ../../../build/rosidl_cli/rosidl_cli.egg-info/PKG-INFO
+[1.073s] writing dependency_links to ../../../build/rosidl_cli/rosidl_cli.egg-info/dependency_links.txt
+[1.073s] writing entry points to ../../../build/rosidl_cli/rosidl_cli.egg-info/entry_points.txt
+[1.073s] writing requirements to ../../../build/rosidl_cli/rosidl_cli.egg-info/requires.txt
+[1.073s] writing top-level names to ../../../build/rosidl_cli/rosidl_cli.egg-info/top_level.txt
+[1.073s] writing manifest file '../../../build/rosidl_cli/rosidl_cli.egg-info/SOURCES.txt'
+[1.130s] reading manifest file '../../../build/rosidl_cli/rosidl_cli.egg-info/SOURCES.txt'
+[1.130s] writing manifest file '../../../build/rosidl_cli/rosidl_cli.egg-info/SOURCES.txt'
+[1.130s] running build
+[1.130s] running build_py
+[1.130s] creating /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/rosidl_cli/build
+[1.130s] creating /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/rosidl_cli/build/lib
+[1.131s] creating /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/rosidl_cli/build/lib/rosidl_cli
+[1.131s] copying rosidl_cli/cli.py -> /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/rosidl_cli/build/lib/rosidl_cli
+[1.131s] copying rosidl_cli/__init__.py -> /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/rosidl_cli/build/lib/rosidl_cli
+[1.131s] copying rosidl_cli/entry_points.py -> /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/rosidl_cli/build/lib/rosidl_cli
+[1.131s] copying rosidl_cli/common.py -> /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/rosidl_cli/build/lib/rosidl_cli
+[1.131s] copying rosidl_cli/extensions.py -> /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/rosidl_cli/build/lib/rosidl_cli
+[1.131s] creating /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/rosidl_cli/build/lib/rosidl_cli/command
+[1.131s] copying rosidl_cli/command/__init__.py -> /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/rosidl_cli/build/lib/rosidl_cli/command
+[1.131s] copying rosidl_cli/command/helpers.py -> /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/rosidl_cli/build/lib/rosidl_cli/command
+[1.131s] creating /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/rosidl_cli/build/lib/rosidl_cli/command/generate
+[1.131s] copying rosidl_cli/command/generate/__init__.py -> /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/rosidl_cli/build/lib/rosidl_cli/command/generate
+[1.131s] copying rosidl_cli/command/generate/api.py -> /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/rosidl_cli/build/lib/rosidl_cli/command/generate
+[1.131s] copying rosidl_cli/command/generate/extensions.py -> /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/rosidl_cli/build/lib/rosidl_cli/command/generate
+[1.131s] creating /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/rosidl_cli/build/lib/rosidl_cli/command/translate
+[1.131s] copying rosidl_cli/command/translate/__init__.py -> /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/rosidl_cli/build/lib/rosidl_cli/command/translate
+[1.132s] copying rosidl_cli/command/translate/api.py -> /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/rosidl_cli/build/lib/rosidl_cli/command/translate
+[1.132s] copying rosidl_cli/command/translate/extensions.py -> /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/rosidl_cli/build/lib/rosidl_cli/command/translate
+[1.132s] running install
+[1.132s] running install_lib
+[1.132s] creating /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/lib/python3.10/site-packages/rosidl_cli
+[1.132s] copying /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/rosidl_cli/build/lib/rosidl_cli/cli.py -> /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/lib/python3.10/site-packages/rosidl_cli
+[1.132s] copying /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/rosidl_cli/build/lib/rosidl_cli/__init__.py -> /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/lib/python3.10/site-packages/rosidl_cli
+[1.132s] copying /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/rosidl_cli/build/lib/rosidl_cli/entry_points.py -> /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/lib/python3.10/site-packages/rosidl_cli
+[1.132s] creating /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/lib/python3.10/site-packages/rosidl_cli/command
+[1.132s] creating /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/lib/python3.10/site-packages/rosidl_cli/command/generate
+[1.132s] copying /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/rosidl_cli/build/lib/rosidl_cli/command/generate/__init__.py -> /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/lib/python3.10/site-packages/rosidl_cli/command/generate
+[1.132s] copying /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/rosidl_cli/build/lib/rosidl_cli/command/generate/api.py -> /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/lib/python3.10/site-packages/rosidl_cli/command/generate
+[1.132s] copying /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/rosidl_cli/build/lib/rosidl_cli/command/generate/extensions.py -> /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/lib/python3.10/site-packages/rosidl_cli/command/generate
+[1.132s] copying /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/rosidl_cli/build/lib/rosidl_cli/command/__init__.py -> /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/lib/python3.10/site-packages/rosidl_cli/command
+[1.132s] copying /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/rosidl_cli/build/lib/rosidl_cli/command/helpers.py -> /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/lib/python3.10/site-packages/rosidl_cli/command
+[1.133s] creating /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/lib/python3.10/site-packages/rosidl_cli/command/translate
+[1.133s] copying /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/rosidl_cli/build/lib/rosidl_cli/command/translate/__init__.py -> /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/lib/python3.10/site-packages/rosidl_cli/command/translate
+[1.133s] copying /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/rosidl_cli/build/lib/rosidl_cli/command/translate/api.py -> /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/lib/python3.10/site-packages/rosidl_cli/command/translate
+[1.133s] copying /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/rosidl_cli/build/lib/rosidl_cli/command/translate/extensions.py -> /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/lib/python3.10/site-packages/rosidl_cli/command/translate
+[1.133s] copying /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/rosidl_cli/build/lib/rosidl_cli/common.py -> /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/lib/python3.10/site-packages/rosidl_cli
+[1.133s] copying /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/rosidl_cli/build/lib/rosidl_cli/extensions.py -> /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/lib/python3.10/site-packages/rosidl_cli
+[1.133s] byte-compiling /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/lib/python3.10/site-packages/rosidl_cli/cli.py to cli.cpython-310.pyc
+[1.133s] byte-compiling /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/lib/python3.10/site-packages/rosidl_cli/__init__.py to __init__.cpython-310.pyc
+[1.133s] byte-compiling /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/lib/python3.10/site-packages/rosidl_cli/entry_points.py to entry_points.cpython-310.pyc
+[1.133s] byte-compiling /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/lib/python3.10/site-packages/rosidl_cli/command/generate/__init__.py to __init__.cpython-310.pyc
+[1.133s] byte-compiling /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/lib/python3.10/site-packages/rosidl_cli/command/generate/api.py to api.cpython-310.pyc
+[1.133s] byte-compiling /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/lib/python3.10/site-packages/rosidl_cli/command/generate/extensions.py to extensions.cpython-310.pyc
+[1.133s] byte-compiling /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/lib/python3.10/site-packages/rosidl_cli/command/__init__.py to __init__.cpython-310.pyc
+[1.133s] byte-compiling /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/lib/python3.10/site-packages/rosidl_cli/command/helpers.py to helpers.cpython-310.pyc
+[1.134s] byte-compiling /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/lib/python3.10/site-packages/rosidl_cli/command/translate/__init__.py to __init__.cpython-310.pyc
+[1.134s] byte-compiling /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/lib/python3.10/site-packages/rosidl_cli/command/translate/api.py to api.cpython-310.pyc
+[1.134s] byte-compiling /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/lib/python3.10/site-packages/rosidl_cli/command/translate/extensions.py to extensions.cpython-310.pyc
+[1.134s] byte-compiling /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/lib/python3.10/site-packages/rosidl_cli/common.py to common.cpython-310.pyc
+[1.134s] byte-compiling /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/lib/python3.10/site-packages/rosidl_cli/extensions.py to extensions.cpython-310.pyc
+[1.134s] running install_data
+[1.134s] copying resource/rosidl_cli -> /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/share/ament_index/resource_index/packages
+[1.134s] copying package.xml -> /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/share/rosidl_cli
+[1.134s] copying resource/package.dsv -> /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/share/rosidl_cli
+[1.134s] creating /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/share/rosidl_cli/environment
+[1.134s] copying completion/rosidl-argcomplete.bash -> /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/share/rosidl_cli/environment
+[1.134s] copying completion/rosidl-argcomplete.zsh -> /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/share/rosidl_cli/environment
+[1.134s] running install_egg_info
+[1.134s] Copying ../../../build/rosidl_cli/rosidl_cli.egg-info to /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/lib/python3.10/site-packages/rosidl_cli-3.1.5-py3.10.egg-info
+[1.134s] running install_scripts
+[1.150s] /home/proto/.espressif/python_env/idf5.2_py3.10_env/lib/python3.10/site-packages/setuptools/_distutils/cmd.py:66: SetuptoolsDeprecationWarning: setup.py install is deprecated.
+[1.150s] !!
+[1.151s] 
+[1.151s]         ********************************************************************************
+[1.151s]         Please avoid running ``setup.py`` directly.
+[1.151s]         Instead, use pypa/build, pypa/installer or other
+[1.151s]         standards-based tools.
+[1.151s] 
+[1.151s]         See https://blog.ganssle.io/articles/2021/10/setup-py-deprecated.html for details.
+[1.151s]         ********************************************************************************
+[1.151s] 
+[1.151s] !!
+[1.151s]   self.initialize_options()
+[1.230s] Installing rosidl script to /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/bin
+[1.230s] writing list of installed files to '/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/rosidl_cli/install.log'
+[1.284s] Invoked command in '/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/src/rosidl/rosidl_cli' returned '0': PYTHONPATH=/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/rosidl_cli/prefix_override:/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/lib/python3.10/site-packages:${PYTHONPATH} X_CFLAGS=-mlongcalls -Wno-frame-address X_CXXFLAGS=-mlongcalls -Wno-frame-address /home/proto/.espressif/python_env/idf5.2_py3.10_env/bin/python3 setup.py egg_info --egg-base ../../../build/rosidl_cli build --build-base /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/rosidl_cli/build install --record /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/rosidl_cli/install.log --single-version-externally-managed

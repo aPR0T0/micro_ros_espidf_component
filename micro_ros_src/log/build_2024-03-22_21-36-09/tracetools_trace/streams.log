@@ -1,0 +1,76 @@
+[0.781s] Invoking command in '/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/src/ros2_tracing/tracetools_trace': PYTHONPATH=/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/tracetools_trace/prefix_override:/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/lib/python3.10/site-packages:${PYTHONPATH} X_CFLAGS=-mlongcalls -Wno-frame-address X_CXXFLAGS=-mlongcalls -Wno-frame-address /home/proto/.espressif/python_env/idf5.2_py3.10_env/bin/python3 setup.py egg_info --egg-base ../../../build/tracetools_trace build --build-base /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/tracetools_trace/build install --record /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/tracetools_trace/install.log --single-version-externally-managed
+[0.997s] running egg_info
+[0.997s] creating ../../../build/tracetools_trace/tracetools_trace.egg-info
+[0.997s] writing ../../../build/tracetools_trace/tracetools_trace.egg-info/PKG-INFO
+[0.997s] writing dependency_links to ../../../build/tracetools_trace/tracetools_trace.egg-info/dependency_links.txt
+[0.997s] writing entry points to ../../../build/tracetools_trace/tracetools_trace.egg-info/entry_points.txt
+[0.997s] writing requirements to ../../../build/tracetools_trace/tracetools_trace.egg-info/requires.txt
+[0.997s] writing top-level names to ../../../build/tracetools_trace/tracetools_trace.egg-info/top_level.txt
+[0.997s] writing manifest file '../../../build/tracetools_trace/tracetools_trace.egg-info/SOURCES.txt'
+[1.058s] reading manifest file '../../../build/tracetools_trace/tracetools_trace.egg-info/SOURCES.txt'
+[1.058s] writing manifest file '../../../build/tracetools_trace/tracetools_trace.egg-info/SOURCES.txt'
+[1.058s] running build
+[1.058s] running build_py
+[1.058s] creating /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/tracetools_trace/build
+[1.058s] creating /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/tracetools_trace/build/lib
+[1.058s] creating /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/tracetools_trace/build/lib/tracetools_trace
+[1.059s] copying tracetools_trace/__init__.py -> /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/tracetools_trace/build/lib/tracetools_trace
+[1.059s] copying tracetools_trace/trace.py -> /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/tracetools_trace/build/lib/tracetools_trace
+[1.059s] creating /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/tracetools_trace/build/lib/tracetools_trace/tools
+[1.059s] copying tracetools_trace/tools/__init__.py -> /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/tracetools_trace/build/lib/tracetools_trace/tools
+[1.059s] copying tracetools_trace/tools/names.py -> /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/tracetools_trace/build/lib/tracetools_trace/tools
+[1.059s] copying tracetools_trace/tools/lttng_stub.py -> /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/tracetools_trace/build/lib/tracetools_trace/tools
+[1.059s] copying tracetools_trace/tools/lttng.py -> /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/tracetools_trace/build/lib/tracetools_trace/tools
+[1.059s] copying tracetools_trace/tools/lttng_impl.py -> /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/tracetools_trace/build/lib/tracetools_trace/tools
+[1.059s] copying tracetools_trace/tools/args.py -> /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/tracetools_trace/build/lib/tracetools_trace/tools
+[1.059s] copying tracetools_trace/tools/path.py -> /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/tracetools_trace/build/lib/tracetools_trace/tools
+[1.059s] copying tracetools_trace/tools/tracepoints.py -> /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/tracetools_trace/build/lib/tracetools_trace/tools
+[1.059s] copying tracetools_trace/tools/signals.py -> /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/tracetools_trace/build/lib/tracetools_trace/tools
+[1.059s] running install
+[1.059s] running install_lib
+[1.060s] creating /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/lib/python3.10/site-packages/tracetools_trace
+[1.060s] copying /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/tracetools_trace/build/lib/tracetools_trace/__init__.py -> /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/lib/python3.10/site-packages/tracetools_trace
+[1.060s] copying /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/tracetools_trace/build/lib/tracetools_trace/trace.py -> /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/lib/python3.10/site-packages/tracetools_trace
+[1.060s] creating /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/lib/python3.10/site-packages/tracetools_trace/tools
+[1.060s] copying /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/tracetools_trace/build/lib/tracetools_trace/tools/__init__.py -> /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/lib/python3.10/site-packages/tracetools_trace/tools
+[1.060s] copying /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/tracetools_trace/build/lib/tracetools_trace/tools/names.py -> /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/lib/python3.10/site-packages/tracetools_trace/tools
+[1.060s] copying /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/tracetools_trace/build/lib/tracetools_trace/tools/lttng_stub.py -> /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/lib/python3.10/site-packages/tracetools_trace/tools
+[1.060s] copying /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/tracetools_trace/build/lib/tracetools_trace/tools/lttng.py -> /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/lib/python3.10/site-packages/tracetools_trace/tools
+[1.060s] copying /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/tracetools_trace/build/lib/tracetools_trace/tools/lttng_impl.py -> /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/lib/python3.10/site-packages/tracetools_trace/tools
+[1.060s] copying /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/tracetools_trace/build/lib/tracetools_trace/tools/args.py -> /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/lib/python3.10/site-packages/tracetools_trace/tools
+[1.060s] copying /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/tracetools_trace/build/lib/tracetools_trace/tools/path.py -> /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/lib/python3.10/site-packages/tracetools_trace/tools
+[1.073s] copying /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/tracetools_trace/build/lib/tracetools_trace/tools/tracepoints.py -> /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/lib/python3.10/site-packages/tracetools_trace/tools
+[1.073s] copying /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/tracetools_trace/build/lib/tracetools_trace/tools/signals.py -> /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/lib/python3.10/site-packages/tracetools_trace/tools
+[1.073s] byte-compiling /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/lib/python3.10/site-packages/tracetools_trace/__init__.py to __init__.cpython-310.pyc
+[1.073s] byte-compiling /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/lib/python3.10/site-packages/tracetools_trace/trace.py to trace.cpython-310.pyc
+[1.073s] byte-compiling /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/lib/python3.10/site-packages/tracetools_trace/tools/__init__.py to __init__.cpython-310.pyc
+[1.073s] byte-compiling /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/lib/python3.10/site-packages/tracetools_trace/tools/names.py to names.cpython-310.pyc
+[1.073s] byte-compiling /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/lib/python3.10/site-packages/tracetools_trace/tools/lttng_stub.py to lttng_stub.cpython-310.pyc
+[1.073s] byte-compiling /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/lib/python3.10/site-packages/tracetools_trace/tools/lttng.py to lttng.cpython-310.pyc
+[1.073s] byte-compiling /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/lib/python3.10/site-packages/tracetools_trace/tools/lttng_impl.py to lttng_impl.cpython-310.pyc
+[1.073s] byte-compiling /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/lib/python3.10/site-packages/tracetools_trace/tools/args.py to args.cpython-310.pyc
+[1.073s] byte-compiling /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/lib/python3.10/site-packages/tracetools_trace/tools/path.py to path.cpython-310.pyc
+[1.073s] byte-compiling /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/lib/python3.10/site-packages/tracetools_trace/tools/tracepoints.py to tracepoints.cpython-310.pyc
+[1.074s] byte-compiling /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/lib/python3.10/site-packages/tracetools_trace/tools/signals.py to signals.cpython-310.pyc
+[1.074s] running install_data
+[1.074s] copying package.xml -> /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/share/tracetools_trace
+[1.074s] copying resource/tracetools_trace -> /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/share/ament_index/resource_index/packages
+[1.074s] running install_egg_info
+[1.074s] Copying ../../../build/tracetools_trace/tracetools_trace.egg-info to /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/lib/python3.10/site-packages/tracetools_trace-4.1.1-py3.10.egg-info
+[1.074s] running install_scripts
+[1.075s] /home/proto/.espressif/python_env/idf5.2_py3.10_env/lib/python3.10/site-packages/setuptools/_distutils/cmd.py:66: SetuptoolsDeprecationWarning: setup.py install is deprecated.
+[1.075s] !!
+[1.075s] 
+[1.075s]         ********************************************************************************
+[1.075s]         Please avoid running ``setup.py`` directly.
+[1.075s]         Instead, use pypa/build, pypa/installer or other
+[1.075s]         standards-based tools.
+[1.075s] 
+[1.075s]         See https://blog.ganssle.io/articles/2021/10/setup-py-deprecated.html for details.
+[1.075s]         ********************************************************************************
+[1.075s] 
+[1.076s] !!
+[1.076s]   self.initialize_options()
+[1.155s] Installing trace script to /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/lib/tracetools_trace
+[1.156s] writing list of installed files to '/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/tracetools_trace/install.log'
+[1.241s] Invoked command in '/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/src/ros2_tracing/tracetools_trace' returned '0': PYTHONPATH=/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/tracetools_trace/prefix_override:/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/lib/python3.10/site-packages:${PYTHONPATH} X_CFLAGS=-mlongcalls -Wno-frame-address X_CXXFLAGS=-mlongcalls -Wno-frame-address /home/proto/.espressif/python_env/idf5.2_py3.10_env/bin/python3 setup.py egg_info --egg-base ../../../build/tracetools_trace build --build-base /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/tracetools_trace/build install --record /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/tracetools_trace/install.log --single-version-externally-managed

@@ -1,0 +1,8 @@
+/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/lib/libmicrocdr.a
+/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/include/ucdr/visibility.h
+/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/include/ucdr/microcdr.h
+/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/include/ucdr/config.h
+/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/share/microcdr/cmake/microcdrTargets.cmake
+/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/share/microcdr/cmake/microcdrTargets-release.cmake
+/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/share/microcdr/cmake/microcdrConfig.cmake
+/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/share/microcdr/cmake/microcdrConfigVersion.cmake

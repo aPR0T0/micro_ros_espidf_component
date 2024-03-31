@@ -1,0 +1,15 @@
+/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/share/ament_index/resource_index/package_run_dependencies/test_rmw_implementation
+/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/share/ament_index/resource_index/parent_prefix_path/test_rmw_implementation
+/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/share/test_rmw_implementation/environment/ament_prefix_path.sh
+/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/share/test_rmw_implementation/environment/ament_prefix_path.dsv
+/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/share/test_rmw_implementation/environment/path.sh
+/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/share/test_rmw_implementation/environment/path.dsv
+/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/share/test_rmw_implementation/local_setup.bash
+/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/share/test_rmw_implementation/local_setup.sh
+/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/share/test_rmw_implementation/local_setup.zsh
+/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/share/test_rmw_implementation/local_setup.dsv
+/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/share/test_rmw_implementation/package.dsv
+/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/share/ament_index/resource_index/packages/test_rmw_implementation
+/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/share/test_rmw_implementation/cmake/test_rmw_implementationConfig.cmake
+/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/share/test_rmw_implementation/cmake/test_rmw_implementationConfig-version.cmake
+/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/share/test_rmw_implementation/package.xml

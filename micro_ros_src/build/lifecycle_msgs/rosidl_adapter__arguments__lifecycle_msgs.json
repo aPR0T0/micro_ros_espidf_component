@@ -1,0 +1,13 @@
+{
+  "package_name": "lifecycle_msgs",
+  "non_idl_tuples": [
+    "/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/src/rcl_interfaces/lifecycle_msgs:msg/State.msg",
+    "/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/src/rcl_interfaces/lifecycle_msgs:msg/Transition.msg",
+    "/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/src/rcl_interfaces/lifecycle_msgs:msg/TransitionDescription.msg",
+    "/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/src/rcl_interfaces/lifecycle_msgs:msg/TransitionEvent.msg",
+    "/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/src/rcl_interfaces/lifecycle_msgs:srv/ChangeState.srv",
+    "/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/src/rcl_interfaces/lifecycle_msgs:srv/GetAvailableStates.srv",
+    "/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/src/rcl_interfaces/lifecycle_msgs:srv/GetAvailableTransitions.srv",
+    "/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/src/rcl_interfaces/lifecycle_msgs:srv/GetState.srv"
+  ]
+}

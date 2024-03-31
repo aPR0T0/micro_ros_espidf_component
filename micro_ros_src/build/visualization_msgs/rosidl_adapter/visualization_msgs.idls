@@ -1,0 +1,13 @@
+/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/visualization_msgs/rosidl_adapter/visualization_msgs:msg/ImageMarker.idl
+/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/visualization_msgs/rosidl_adapter/visualization_msgs:msg/InteractiveMarker.idl
+/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/visualization_msgs/rosidl_adapter/visualization_msgs:msg/InteractiveMarkerControl.idl
+/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/visualization_msgs/rosidl_adapter/visualization_msgs:msg/InteractiveMarkerFeedback.idl
+/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/visualization_msgs/rosidl_adapter/visualization_msgs:msg/InteractiveMarkerInit.idl
+/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/visualization_msgs/rosidl_adapter/visualization_msgs:msg/InteractiveMarkerPose.idl
+/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/visualization_msgs/rosidl_adapter/visualization_msgs:msg/InteractiveMarkerUpdate.idl
+/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/visualization_msgs/rosidl_adapter/visualization_msgs:msg/Marker.idl
+/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/visualization_msgs/rosidl_adapter/visualization_msgs:msg/MarkerArray.idl
+/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/visualization_msgs/rosidl_adapter/visualization_msgs:msg/MenuEntry.idl
+/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/visualization_msgs/rosidl_adapter/visualization_msgs:msg/MeshFile.idl
+/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/visualization_msgs/rosidl_adapter/visualization_msgs:msg/UVCoordinate.idl
+/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/visualization_msgs/rosidl_adapter/visualization_msgs:srv/GetInteractiveMarkers.idl

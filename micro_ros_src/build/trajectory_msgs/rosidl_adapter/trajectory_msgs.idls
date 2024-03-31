@@ -1,0 +1,4 @@
+/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/trajectory_msgs/rosidl_adapter/trajectory_msgs:msg/JointTrajectory.idl
+/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/trajectory_msgs/rosidl_adapter/trajectory_msgs:msg/JointTrajectoryPoint.idl
+/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/trajectory_msgs/rosidl_adapter/trajectory_msgs:msg/MultiDOFJointTrajectory.idl
+/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/trajectory_msgs/rosidl_adapter/trajectory_msgs:msg/MultiDOFJointTrajectoryPoint.idl

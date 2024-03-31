@@ -1,0 +1,56 @@
+[0.853s] Invoking command in '/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/src/ros2_tracing/ros2trace': AMENT_PREFIX_PATH=/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install:${CMAKE_PREFIX_PATH} PATH=/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/bin:${PATH} PYTHONPATH=/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/ros2trace/prefix_override:/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/lib/python3.10/site-packages:/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/lib/python3.10/site-packages:${PYTHONPATH} X_CFLAGS=-mlongcalls -Wno-frame-address X_CXXFLAGS=-mlongcalls -Wno-frame-address /home/proto/.espressif/python_env/idf5.2_py3.10_env/bin/python3 setup.py egg_info --egg-base ../../../build/ros2trace build --build-base /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/ros2trace/build install --record /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/ros2trace/install.log --single-version-externally-managed
+[0.978s] running egg_info
+[0.978s] creating ../../../build/ros2trace/ros2trace.egg-info
+[0.982s] writing ../../../build/ros2trace/ros2trace.egg-info/PKG-INFO
+[0.983s] writing dependency_links to ../../../build/ros2trace/ros2trace.egg-info/dependency_links.txt
+[0.983s] writing entry points to ../../../build/ros2trace/ros2trace.egg-info/entry_points.txt
+[0.983s] writing requirements to ../../../build/ros2trace/ros2trace.egg-info/requires.txt
+[0.983s] writing top-level names to ../../../build/ros2trace/ros2trace.egg-info/top_level.txt
+[0.984s] writing manifest file '../../../build/ros2trace/ros2trace.egg-info/SOURCES.txt'
+[0.997s] reading manifest file '../../../build/ros2trace/ros2trace.egg-info/SOURCES.txt'
+[0.998s] writing manifest file '../../../build/ros2trace/ros2trace.egg-info/SOURCES.txt'
+[1.001s] running build
+[1.001s] running build_py
+[1.001s] creating /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/ros2trace/build
+[1.001s] creating /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/ros2trace/build/lib
+[1.001s] creating /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/ros2trace/build/lib/ros2trace
+[1.001s] copying ros2trace/__init__.py -> /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/ros2trace/build/lib/ros2trace
+[1.001s] creating /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/ros2trace/build/lib/ros2trace/command
+[1.001s] copying ros2trace/command/__init__.py -> /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/ros2trace/build/lib/ros2trace/command
+[1.001s] copying ros2trace/command/trace.py -> /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/ros2trace/build/lib/ros2trace/command
+[1.001s] creating /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/ros2trace/build/lib/ros2trace/api
+[1.002s] copying ros2trace/api/__init__.py -> /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/ros2trace/build/lib/ros2trace/api
+[1.002s] running install
+[1.004s] /home/proto/.espressif/python_env/idf5.2_py3.10_env/lib/python3.10/site-packages/setuptools/_distutils/cmd.py:66: SetuptoolsDeprecationWarning: setup.py install is deprecated.
+[1.004s] !!
+[1.004s] 
+[1.004s]         ********************************************************************************
+[1.004s]         Please avoid running ``setup.py`` directly.
+[1.004s]         Instead, use pypa/build, pypa/installer or other
+[1.005s]         standards-based tools.
+[1.005s] 
+[1.005s]         See https://blog.ganssle.io/articles/2021/10/setup-py-deprecated.html for details.
+[1.005s]         ********************************************************************************
+[1.005s] 
+[1.005s] !!
+[1.005s]   self.initialize_options()
+[1.011s] running install_lib
+[1.019s] creating /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/lib/python3.10/site-packages/ros2trace
+[1.019s] copying /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/ros2trace/build/lib/ros2trace/__init__.py -> /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/lib/python3.10/site-packages/ros2trace
+[1.019s] creating /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/lib/python3.10/site-packages/ros2trace/command
+[1.019s] copying /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/ros2trace/build/lib/ros2trace/command/__init__.py -> /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/lib/python3.10/site-packages/ros2trace/command
+[1.019s] copying /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/ros2trace/build/lib/ros2trace/command/trace.py -> /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/lib/python3.10/site-packages/ros2trace/command
+[1.019s] creating /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/lib/python3.10/site-packages/ros2trace/api
+[1.019s] copying /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/ros2trace/build/lib/ros2trace/api/__init__.py -> /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/lib/python3.10/site-packages/ros2trace/api
+[1.020s] byte-compiling /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/lib/python3.10/site-packages/ros2trace/__init__.py to __init__.cpython-310.pyc
+[1.020s] byte-compiling /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/lib/python3.10/site-packages/ros2trace/command/__init__.py to __init__.cpython-310.pyc
+[1.025s] byte-compiling /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/lib/python3.10/site-packages/ros2trace/command/trace.py to trace.cpython-310.pyc
+[1.025s] byte-compiling /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/lib/python3.10/site-packages/ros2trace/api/__init__.py to __init__.cpython-310.pyc
+[1.025s] running install_data
+[1.034s] copying package.xml -> /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/share/ros2trace
+[1.034s] copying resource/ros2trace -> /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/share/ament_index/resource_index/packages
+[1.034s] running install_egg_info
+[1.043s] Copying ../../../build/ros2trace/ros2trace.egg-info to /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/lib/python3.10/site-packages/ros2trace-4.1.1-py3.10.egg-info
+[1.044s] running install_scripts
+[1.145s] writing list of installed files to '/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/ros2trace/install.log'
+[1.206s] Invoked command in '/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/src/ros2_tracing/ros2trace' returned '0': AMENT_PREFIX_PATH=/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install:${CMAKE_PREFIX_PATH} PATH=/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/bin:${PATH} PYTHONPATH=/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/ros2trace/prefix_override:/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/lib/python3.10/site-packages:/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/lib/python3.10/site-packages:${PYTHONPATH} X_CFLAGS=-mlongcalls -Wno-frame-address X_CXXFLAGS=-mlongcalls -Wno-frame-address /home/proto/.espressif/python_env/idf5.2_py3.10_env/bin/python3 setup.py egg_info --egg-base ../../../build/ros2trace build --build-base /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/ros2trace/build install --record /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/ros2trace/install.log --single-version-externally-managed

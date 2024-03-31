@@ -1,0 +1,4 @@
+/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/shape_msgs/rosidl_adapter/shape_msgs:msg/Mesh.idl
+/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/shape_msgs/rosidl_adapter/shape_msgs:msg/MeshTriangle.idl
+/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/shape_msgs/rosidl_adapter/shape_msgs:msg/Plane.idl
+/home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/build/shape_msgs/rosidl_adapter/shape_msgs:msg/SolidPrimitive.idl

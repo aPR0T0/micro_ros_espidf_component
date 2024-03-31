@@ -1,0 +1,25 @@
+CMakeFiles/rmw.dir/src/init.c.obj: \
+ /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/src/rmw/rmw/src/init.c \
+ /home/proto/.espressif/tools/xtensa-esp-elf/esp-13.2.0_20230928/xtensa-esp-elf/lib/gcc/xtensa-esp-elf/13.2.0/include/stddef.h \
+ /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/src/rmw/rmw/include/rmw/domain_id.h \
+ /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/src/rmw/rmw/include/rmw/init.h \
+ /home/proto/.espressif/tools/xtensa-esp-elf/esp-13.2.0_20230928/xtensa-esp-elf/lib/gcc/xtensa-esp-elf/13.2.0/include/stdint.h \
+ /home/proto/.espressif/tools/xtensa-esp-elf/esp-13.2.0_20230928/xtensa-esp-elf/xtensa-esp-elf/sys-include/stdint.h \
+ /home/proto/.espressif/tools/xtensa-esp-elf/esp-13.2.0_20230928/xtensa-esp-elf/xtensa-esp-elf/sys-include/machine/_default_types.h \
+ /home/proto/.espressif/tools/xtensa-esp-elf/esp-13.2.0_20230928/xtensa-esp-elf/xtensa-esp-elf/sys-include/sys/features.h \
+ /home/proto/.espressif/tools/xtensa-esp-elf/esp-13.2.0_20230928/xtensa-esp-elf/xtensa-esp-elf/sys-include/_newlib_version.h \
+ /home/proto/.espressif/tools/xtensa-esp-elf/esp-13.2.0_20230928/xtensa-esp-elf/xtensa-esp-elf/sys-include/sys/_intsup.h \
+ /home/proto/.espressif/tools/xtensa-esp-elf/esp-13.2.0_20230928/xtensa-esp-elf/xtensa-esp-elf/sys-include/sys/_stdint.h \
+ /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/src/rmw/rmw/include/rmw/init_options.h \
+ /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/include/rcutils/rcutils/allocator.h \
+ /home/proto/.espressif/tools/xtensa-esp-elf/esp-13.2.0_20230928/xtensa-esp-elf/lib/gcc/xtensa-esp-elf/13.2.0/include/stdbool.h \
+ /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/include/rcutils/rcutils/macros.h \
+ /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/include/rcutils/rcutils/configuration_flags.h \
+ /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/include/rcutils/rcutils/types/rcutils_ret.h \
+ /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/include/rcutils/rcutils/visibility_control.h \
+ /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/install/include/rcutils/rcutils/visibility_control_macros.h \
+ /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/src/rmw/rmw/include/rmw/localhost.h \
+ /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/src/rmw/rmw/include/rmw/visibility_control.h \
+ /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/src/rmw/rmw/include/rmw/macros.h \
+ /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/src/rmw/rmw/include/rmw/ret_types.h \
+ /home/proto/MARIO/firmware/components/micro_ros_espidf_component/micro_ros_src/src/rmw/rmw/include/rmw/security_options.h
